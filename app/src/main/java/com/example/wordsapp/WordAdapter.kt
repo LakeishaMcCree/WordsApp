@@ -115,4 +115,5 @@ class WordAdapter(private val letterId: String, context: Context) :
             info?.addAction(customClick)
         }
     }
+    //From this activity, user is able to navigate to two fragments
 }
